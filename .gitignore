@@ -131,3 +131,5 @@ dist
 
 # custom
 googleAuth.json
+/temp
+/result
